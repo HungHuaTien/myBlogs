@@ -1,7 +1,0 @@
----
-title: "R與量化方法"
----
-
-**by 田弘華 Hung-Hua Tien**
-
-
